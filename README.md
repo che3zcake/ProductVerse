@@ -70,8 +70,8 @@ While the frontend lacks polish, the backend is fully functional. This project w
 📦 Deploy both frontend and backend with environment configurations
 ```
 ### 📬 Contact
-Feel free to reachout if you’d like to collaborate or know more about this project!
-```
+Feel free to reach out if you’d like to collaborate or know more about this project!
+
 
 
 
