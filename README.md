@@ -68,9 +68,9 @@ While the frontend lacks polish, the backend is fully functional. This project w
 🛡️ Add validation, error handling, and role-based permissions
 
 📦 Deploy both frontend and backend with environment configurations
-
-📬 Contact
-Feel free to reach out if you’d like to collaborate or know more about this project!
+```
+### 📬 Contact
+Feel free to reachout if you’d like to collaborate or know more about this project!
 ```
 
 
