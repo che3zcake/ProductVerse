@@ -4,8 +4,11 @@ I have mostly focused on the backend as the framework Nestjs is new to me and I 
 My backend is in the product-verse folder and frontend is in the fe folder.
 
 To run the backend just :
+
 cd productverse/product-verse 
+
 then do :
+
 npm run dev:watch
 
 there are many end points, like http://localhost:3000/
