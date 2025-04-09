@@ -6,4 +6,6 @@ ProductVerse is a full-stack product management application with a **NestJS back
 
 ## 🚀 Project Structure
 
-productverse/ │ ├── product-verse/ → Backend (NestJS) └── fe/ → Frontend (React + TypeScript)
+productverse/ 
+│ ├── product-verse/ → Backend (NestJS) 
+└── fe/ → Frontend (React + TypeScript)
